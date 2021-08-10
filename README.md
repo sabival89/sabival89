@@ -67,7 +67,18 @@
 
 </style>
 
-<header>
+<header style="background-image: url('./istanbul-cover.jpg');
+    background-size: cover;
+    background-color: #002d50;
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    min-height: 20em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-top: 2px solid rgb(211,0,93);">
   <blockquote>
     <div class="mantra-title">
       <span>My Mantra</span>
@@ -123,6 +134,5 @@ Here are some ideas to get you started:
 -->
 
 ![Valentine's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabival89&count_private=true&show_icons=true&theme=react)
-
 
 <!-- cubic-bezier(0.165, 0.84, 0.44, 1); -->
