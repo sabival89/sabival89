@@ -47,7 +47,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<hr/>
-<br/>
-
-![Valentine's GitHub stats](https://github-readme-stats.vercel.app/api?username=sabival89&count_private=true&show_icons=true&theme=react)
