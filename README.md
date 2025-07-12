@@ -1,7 +1,7 @@
 <h2>Valentine Aduaka</h2>
 <p>I am a Software Developer at <a href="https://electroniccaregiver.com">Electronic Caregiver</a>. Currently, I work and live in Las Cruces, NM. I hold a master's degree in Computer Science from <a href="https://nmsu.edu">New mexico State University</a>.</p>
 <p>
-I love ♥️ using my technical abilities, creativity and problem-solving skills to build and implement software that solve complex problems, enhance & simplify daily business processes while providing value as a service.
+I love using my technical abilities, creativity and problem-solving skills to build and implement software that solve complex problems, enhance & simplify daily business processes while providing value as a service.
 </p>
 
 <h3> Hands-on Daily 👨🏾‍💻</h3>
